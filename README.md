@@ -19,10 +19,15 @@ Try to know the type of WAF (using the tools in this guide) and search for bypas
 # WAF Bypass & Detector tools:
 
 <a href='https://github.com/Ekultek/WhatWaf'><h3>1-WhatWaf</h3></a>
+
 <a href='https://github.com/EnableSecurity/wafw00f'><h3>2-wafw00f</h3></a>
+
 <a href='https://github.com/shieldfy/waf-detector'><h3>3-waf-detector</h3></a>
+
 <a href='https://github.com/eviltik/evilwaf'><h3>4-evilwaf</h3></a>
+
 <a href='https://github.com/wafpassproject/wafpass'><h3>5-wafpass</h3></a>
+
 <a href='https://github.com/PortSwigger/bypass-waf'><h3>6-bypass-waf</h3></a>
 
 # WAF Bypass Resources:
