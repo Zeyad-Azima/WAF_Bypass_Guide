@@ -10,7 +10,7 @@ in this Guide i will put WAF Technologies & How it works, WAF Bypass & Detector 
 Try to analyze the request & response of the target web and see how it works like, what is the programming language that target using after that think how to bypass it and try to bypass it try everything you thinking in
 
 # Second:
-Try to know the type of WAF (using the tools in this guide) and search for bypassing Techniques on Google and try to ask all peoples in groups or frieds, etc 
+Try to know the type of WAF (using the tools in this guide) and search for bypassing Techniques on Google and try to ask all peoples in groups or friends, etc if nothing works search for the waf & read about it and think in a way to bypass it and never give up
 
 # WAF Technologies & How it works:
 
